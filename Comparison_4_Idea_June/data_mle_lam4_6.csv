@@ -1,2 +1,0 @@
-param_set,lambda,n_hubs,config,abandonment_pct,avg_queue_wait_min,avg_true_wait_min,matched_riders,avg_earnings,total_earnings,avg_profit_per_hr,avg_idle_ratio,variance,cvar,fairness_effect,delta_cvar_cross,delta_profit
-mle,4.6,4,mle_lam4.6_k4,1.454584635276371,0.06618129893606958,13.886585059572306,36584,115.46161375846405,592433.540194679,16.52840296667099,0.36448820863608244,1343.5948621942027,29.670438089664266,0.0008174474349855743,-0.7778316866402193,-0.7410303728286465
